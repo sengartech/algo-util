@@ -1,0 +1,26 @@
+{
+  "name": "algo-util",
+  "version": "0.0.1",
+  "description": "nodejs module having pre-defined util functions for data structures and algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sengartech/algo-util.git"
+  },
+  "keywords": [
+    "data structures",
+    "algorithms",
+    "searching",
+    "sorting",
+    "binary searching"
+  ],
+  "author": "Rishabh Singh Sengar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sengartech/algo-util/issues"
+  },
+  "homepage": "https://github.com/sengartech/algo-util#readme"
+}
