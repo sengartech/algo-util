@@ -3,5 +3,6 @@
  */
 
 module.exports = {
-  linearSearch: require('./src/linearSearch.js')
+  linearSearch: require('./src/linearSearch.js'),
+  binarySearch: require('./src/binarySearch.js')
 }
