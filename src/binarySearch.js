@@ -19,5 +19,4 @@ module.exports = binarySearch = (arr = [], element = null) => {
 
   if (arr[mid] === element) return mid;
   else return -1;
-
 } // end of binarySearch.

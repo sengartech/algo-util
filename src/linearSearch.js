@@ -1,5 +1,9 @@
 /**
- * function to perform linear searching.
+ * function to perform linear search.
+ * params:
+ *  arr: array of sorted elements.
+ *  element: element to be searched.
+ * return: index if found, and -1 if not.
  */
 module.exports = linearSearch = (arr = [], element = null) => {
   if (!arr.length || element === null) return -1;
