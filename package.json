@@ -1,6 +1,6 @@
 {
   "name": "algo-util",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nodejs module having pre-defined util functions for data structures and algorithm.",
   "main": "index.js",
   "scripts": {
