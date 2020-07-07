@@ -1,5 +1,6 @@
 /**
  * function to perform linear search.
+ * time complexity: O(n).
  * params:
  *  arr: array of sorted elements.
  *  element: element to be searched.

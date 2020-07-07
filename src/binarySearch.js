@@ -1,5 +1,6 @@
 /**
  * function to perform binary search.
+ * time complexity: O(log n).
  * params:
  *  arr: array of sorted elements.
  *  element: element to be searched.
