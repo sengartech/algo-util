@@ -50,8 +50,8 @@
   ```
   Performing Linear Searching.
   ```js
-  let index1 = algoUtil.linearSearch(arr, 9);
-  console.log(index1); // 2 (-1 if not found)
+  let index = algoUtil.linearSearch(arr, 9);
+  console.log(index); // 2 (-1 if not found)
   ```
   Performing Binary Searching.
   ```js
@@ -60,19 +60,19 @@
   ```
   Performing Bubble Sorting.
   ```js
-  let sortedList = algoUtil.bubbleSort(arr, 9);
+  let sortedList = algoUtil.bubbleSort(arr);
   console.log(sortedList); // [2, 4, 5, 8, 9]
   ```
   Performing Selection Sorting.
   ```js
-  let sortedList = algoUtil.selectionSort(arr, 9);
+  let sortedList = algoUtil.selectionSort(arr);
   console.log(sortedList); // [2, 4, 5, 8, 9]
   ```
 
 ## Features
 
   * Implemented in native javascript.
-  * No other library used.
+  * No dependencies or third-party library used.
   * Major data structures included.
   * Searching algorithms.
   * Sorting algorithms.
@@ -81,6 +81,10 @@
 ## Authors
 
 The original author and current maintainer of Algo-util is [Rishabh Singh Sengar](https://github.com/sengartech).
+
+<!-- [LinkedIn](https://linkedin.com/in/rishabh-singh-sengar). -->
+
+<!-- [Git Hub](https://github.com/sengartech). -->
 
 <!-- [List of all contributors](https://github.com/sengartech/algo-util/graphs/contributors). -->
 
